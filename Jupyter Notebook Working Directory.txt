@@ -1,4 +1,4 @@
-jupyter notebook --notebook-dir=E:\zML
+jupyter notebook --notebook-dir=D:\zML
 
 
 
